@@ -1,2 +1,2 @@
 # learntec
-static website developed while following udemy
+static webpage developed while following udemy
